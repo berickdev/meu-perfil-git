@@ -1,6 +1,6 @@
 ## Perfil de Bruno Erick
 
-Olá! Sou um programador de Desenvolvimento de Software no Senai.
+Olá! Sou um desenvolvedor de Desenvolvimento de Software no Senai.
 
 - **Localização:** Fortaleza, Ceará
 
