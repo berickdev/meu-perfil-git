@@ -7,7 +7,6 @@ Olá! Sou um desenvolvedor de Desenvolvimento de Software no Senai.
 ## Meus Interesses
 - Animais
 - Animes
-- Games
 - Tecnologia
 
 ## Tecnologias
